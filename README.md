@@ -33,15 +33,11 @@ Delivery app is an application that receives orders from customers and then veri
 ## Output and Result :-
 
 <p>
-    <img src="https://i.ibb.co/KWCSsPq/app1.png
-" />
-    <img src="https://i.ibb.co/xSPX6ht/app2.png
-" />
+    <img src="https://i.ibb.co/KWCSsPq/app1.png">
+    <img src="https://i.ibb.co/xSPX6ht/app2.png">
 </p>
 
 <p>
-    <img src="https://i.ibb.co/2vTpDGn/app3.png
-" />
-    <img src="https://i.ibb.co/BgkgmPr/app4.png
-" />
+    <img src="https://i.ibb.co/2vTpDGn/app3.png">
+    <img src="https://i.ibb.co/BgkgmPr/app4.png">
 </p>
