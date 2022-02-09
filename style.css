@@ -26,8 +26,55 @@ ul {
   justify-content: space-between;
 }
 
-li {
-  padding: 3px 10px;
+#item1 {
+  
+  width: 13%;
+  height: 30px;
+  line-height: 30px;
+
+  text-align: center;
+  color: #54b2cf;
+  background-color: #e4f3f7;
+  border-radius: 20px;
+  font-size: 14px;
+  background-color: #54B2CF;
+  color: white;
+}
+
+#item2 {
+  
+  width: 22%;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  color: #54b2cf;
+  background-color: #e4f3f7;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+#item3 {
+  
+  width: 35%;
+  height: 30px;
+  text-align: center;
+   line-height: 30px;
+  /* padding: 5px 10px; */
+  color: #54b2cf;
+  background-color: #e4f3f7;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+#item4 {
+  
+  width: 22%;
+  height: 30px;
+  line-height: 30px;
+
+  text-align: center;
+
+  /* padding: 5px 10px; */
   color: #54b2cf;
   background-color: #e4f3f7;
   border-radius: 20px;
@@ -76,7 +123,9 @@ footer {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  box-shadow: 3px 0 5px lightgray;
+  border-top: white 1px;
+  background-color: white;
+  /* box-shadow: 3px 0 5px lightgray; */
   padding: 20px 20px 50px 20px;
   position: fixed;
   bottom: 0;
@@ -87,3 +136,57 @@ footer {
 .no-active {
   color: lightgray;
 }
+
+
+/* ******* for tablets ******* */
+@media only screen and (min-width: 768px) and (max-width:1023){
+  .container .box{
+    display: flex;
+    flex-direction: column;
+  }
+  .container {
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+#item1 {
+  
+  width: 100px;
+  height: 30px;
+}
+#item2 {
+  
+  width: 100px;
+  height: 30px;
+}
+
+}
+
+/* ******for laptop & desktop****8 */
+@media screen and (min-width: 1024px) {
+  
+  header {
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    margin:5%;
+  }
+  
+  nav {
+    margin: 5%;
+    
+  }
+  .item {
+    padding-left: 5px;
+    padding-right:40px ;
+    color: #54b2cf;
+    background-color: #e4f3f7;
+    border-radius: 20px;
+    font-size: 14px;
+  }
+  
+
+  }
