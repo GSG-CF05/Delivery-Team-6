@@ -141,7 +141,7 @@ footer a {
   text-decoration: none;
 }
 
-@media screen and (min-width: 600px) and (max-width: 900px) {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
   .content {
     width: 90%;
     margin: 0 auto;
@@ -165,7 +165,7 @@ footer a {
   }
 }
 
-@media screen and (min-width: 900px) and (max-width: 1400px) {
+@media screen and (min-width: 1024px) {
   .content {
     height: 100vh;
     width: 80%;
