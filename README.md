@@ -14,12 +14,11 @@ This is the first html css project.
 - **LM**.[Yosef Dallol](https://github.com/Yousef-Dall
 )
 
-## Why we created this Delivery app?
-This is our first team project in foundation course, we will make a delivery application.
-
 ## What is Delivery app?
 Delivery app is an application that receives orders from customers and then verifies the payment card, then complete the payment to receive the order.
 
+## Why we created this Delivery app?
+This is our first team project in foundation course, we will make a delivery application.
 
 ## How can you use this Delivery app?
 
@@ -29,6 +28,10 @@ Delivery app is an application that receives orders from customers and then veri
 - Payment card verification.
 - Payment.
 
+## Technology we use :-
+- Html and css
+- Git and GitHub 
+- Figma
 
 ## Output and Result :-
 
